@@ -17,16 +17,22 @@ Follow clean OOP principles
 No hardcoding to satisfy tests
 📁 Project Structure
 src/
+
  └── main/java/
+ 
       └── za/co/wethinkcode/smarthome/
+      
            Device.java
            Light.java
            Thermostat.java
            SmartHome.java
 
 src/
+
  └── test/java/
+ 
       └── za/co/wethinkcode/smarthome/
+      
            SmartHomeTest.java
 🧩 Requirements
 1. Device (Encapsulation)
